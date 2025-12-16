@@ -174,3 +174,6 @@ st.dataframe(
         ),
     }
 )
+
+# Export to CSV (Auto-generated)
+df.to_csv('output_leads.csv', index=False)

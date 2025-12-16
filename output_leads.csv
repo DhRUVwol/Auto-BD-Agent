@@ -1,0 +1,21 @@
+Name,Job Title,Company,Company Funding Stage,Person Location,Company HQ,Recent Papers,Email,Technographics,Probability Score
+Dr. Sarah Chen,Director of Toxicology,BioLiver Systems,Series B,"Boston, MA","Cambridge, MA",Mechanisms of Drug-Induced Liver Injury (DILI),sarah.chen@bioliver.com,Uses In-vitro models,100
+James Smith,Head of Hepatic Safety,Hepatox Inc,Series A,Bay Area,"San Francisco, CA",Predicting DILI with NAMs,j.smith@hepatox.io,Uses NAMs,100
+User 9,Head of Hepatic Safety,SafeMeds,Series A,"San Francisco, Bay Area","Boston, MA",DILI prediction using organoids,user9@example.com,Uses NAMs,100
+User 19,Lab Technician,PharmaBig,Series B,"Basel, Switzerland","Austin, TX",DILI prediction using organoids,user19@example.com,Uses NAMs,85
+User 17,CEO,UniLabs,Series A,"Chicago, IL","Chicago, IL",Drug-Induced Liver Injury in 3D Models,user17@example.com,Uses In-vitro models,70
+User 10,CEO,HealthCorp,Series C,"Basel, Switzerland","San Francisco, Bay Area",DILI prediction using organoids,user10@example.com,None,55
+User 16,Junior Scientist,MediCare,Series B,"New York, NY","Boston, MA",Climate change in biology,user16@example.com,Uses NAMs,45
+User 6,Lab Technician,TechBio,Series A,"Boston, MA","Cambridge, MA",Hepatic toxicity markers,user6@example.com,Uses NAMs,45
+User 13,Head of Hepatic Safety,GenericPharma,Bootstrapped,"Chicago, IL",Remote,Novel cancer therapies,user13@example.com,Uses In-vitro models,40
+User 20,Safety Scientist,ToxSolutions,IPO,"New York, NY","London, UK (Golden Triangle)",General toxicology review,user20@example.com,Uses In-vitro models,40
+User 12,VP of Oncology,BioStart,Series A,"Chicago, IL","Basel, Switzerland",Hepatic toxicity markers,user12@example.com,Standard Lab Equip,35
+User 14,Junior Scientist,LiverTech,Series B,Remote,"San Francisco, Bay Area",Novel cancer therapies,user14@example.com,None,35
+User 7,Lab Technician,BioStart,Series C,"San Francisco, Bay Area","Cambridge, MA",Effects of aspirin,user7@example.com,Uses NAMs,25
+User 5,Research Associate,LiverTech,Seed,"Basel, Switzerland",Remote,Hepatic toxicity markers,user5@example.com,Uses In-vitro models,25
+User 15,VP of Oncology,TechBio,Bootstrapped,"Chicago, IL","Cambridge, MA",Machine Learning in Biology,user15@example.com,Standard Lab Equip,15
+User 18,Lab Technician,PharmaBig,Bootstrapped,"San Francisco, Bay Area",Remote,None,user18@example.com,Standard Lab Equip,15
+User 11,Junior Scientist,PharmaBig,Bootstrapped,"London, UK (Golden Triangle)","Chicago, IL",Machine Learning in Biology,user11@example.com,Uses NAMs,10
+User 8,Research Associate,UniLabs,Seed,Remote,"New York, NY",Hepatic toxicity markers,user8@example.com,Standard Lab Equip,0
+Emily White,Marketing Manager,HealthCorp,IPO,"New York, NY","New York, NY",Marketing strategies for pharma,emily@healthcorp.com,Standard CRM,0
+Mike Jones,Junior Scientist,BioConsult,Bootstrapped,Remote,"Austin, TX",None,mike@bioconsult.com,None,0
