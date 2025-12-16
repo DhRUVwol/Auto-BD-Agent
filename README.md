@@ -24,3 +24,6 @@ Implemented exactly per the assignment requirements:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   streamlit run app.py
